@@ -1,3 +1,5 @@
 # GDP_data_visualization_portfolio_proj
+
+# Project demonstrating skills learned in Python in regards to Data Science
  
-# project is located in the ipynb file, project is based off of data in the 'all_data.csv'
+# Project is located in the ipynb file, data for project is pulled from 'all_data.csv'
